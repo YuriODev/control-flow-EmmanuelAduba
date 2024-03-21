@@ -9,4 +9,3 @@ elif Alex > Tatyana:
   print ("Alex is the eldest.")
 elif Alex < Tatyana:
   print ("Tatyana is the eldest.")
-
